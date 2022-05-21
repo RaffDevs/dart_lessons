@@ -1,5 +1,7 @@
 void main() {
+  String conceito() => "Hello my fellas";
 
+  String imprimeValores(int valorA, int valorB) => "Ola $valorA e $valorB";
 }
 
 ///
